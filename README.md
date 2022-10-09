@@ -1,2 +1,2 @@
-# ChatApplicationOnLocalNetwork
-This is a console application which used for chatting over the local network connection in c#.
+# local-chat-app
+chatting application which works between computers on the same local network
